@@ -1,0 +1,51 @@
+_repo: Ghost-Stories-of-an-Antiquary_8486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, M.R.
+    - James, Montague Rhodes
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+description: "Ghost Stories of an Antiquary is the title of M. R. James' first collection\
+  \ of ghost stories, published in 1904 (some had previously appeared in magazines).\
+  \ Some later editions under this title contain both the original collection and\
+  \ its successor, More Ghost Stories (1911), combined in one volume.\nMontague Rhodes\
+  \ James (1862–1936) was a paleographer and medievalist scholar; Provost of King's\
+  \ College, Cambridge. He wrote many of his ghost stories to be read aloud in the\
+  \ long tradition of spooky Christmas Eve tales. His stories often use rural settings,\
+  \ with a quiet, scholarly protagonist getting caught up in the activities of supernatural\
+  \ forces. The details of horror are almost never explicit, the stories relying on\
+  \ a gentle, bucolic background to emphasise the awfulness of the otherworldly intrusions.\
+  \ His style of writing can be considered as \"gothic\".\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8486'
+  wikidata: Q1226144
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories, English'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Horror tales, English'
+- GITenberg
+tableOfContents: Canon Alberic's scrap-book -- Lost hearts -- The mezzotint -- The
+  ash-tree -- Number 13 -- Count Magnus -- 'Oh whistle, and I'll come to you, my lad'
+  -- The treasure of Abbot Thomas.
+title: Ghost Stories of an Antiquary
+url: http://www.gutenberg.org/ebooks/8486
+wikipedia:
+- https://sh.wikipedia.org/wiki/Ghost_Stories_of_an_Antiquary
+- https://en.wikipedia.org/wiki/Ghost_Stories_of_an_Antiquary
+- https://commons.wikimedia.org/wiki/Category:Ghost_Stories_of_an_Antiquary
+- https://la.wikipedia.org/wiki/Ghost_Stories_of_an_Antiquary
+- https://it.wikipedia.org/wiki/Storie_di_fantasmi_di_un_antiquario
