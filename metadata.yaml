@@ -1,5 +1,8 @@
 _repo: Ghost-Stories-of-an-Antiquary_8486
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, M. R. (Montague Rhodes)
@@ -22,6 +25,8 @@ description: "Ghost Stories of an Antiquary is the title of M. R. James' first c
   \ forces. The details of horror are almost never explicit, the stories relying on\
   \ a gentle, bucolic background to emphasise the awfulness of the otherworldly intrusions.\
   \ His style of writing can be considered as \"gothic\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8486#Ghost-Stories-of-an-Antiquary
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
